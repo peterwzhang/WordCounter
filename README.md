@@ -1,15 +1,5 @@
-# C++ Data Structure Library
-This library has several different data structure implementations. This was made for my CS201 class (Data Structures and Algorithms).
-
-## Data Structures
-This repository contains the following data structures:
-- Binary Heap
-- Binomial Heap
-- Circular Dynamic Array
-- Red Black Tree
-
-## Notes
-These data structures do not contain checking/catching for many errors if they are used inproperly, so misusing them can lead to seg faults and other errors.
+# C++ 
+This project takes in two text files then counts the number of words and distinct words. It then allows the user to search for words with a ? wildcard character to see the occurences of each word.
 
 ## Usage
 1. TODO
